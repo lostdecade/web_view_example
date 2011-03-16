@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<title>Spacius! A Space Adventure</title>
+	<meta charset="utf-8">
+	<script src="soundmanager2-nodebug-jsmin.js" type="text/javascript"></script>
+	<script src="spacius-min.js" type="text/javascript"></script>
+	<style>
+		html {
+			background: #333;
+		}
+		body {
+			color: #fff;
+			font-family: Courier, Fixed-Sys, Sans-Serif;
+			margin: 0;
+		}
+		#spacius {
+			width: 640px;
+			height: 480px;
+		}
+		#soundmanager-debug-toggle {
+			display: none;
+		}
+	</style>
+</head>
+<body>
+
+<div id="spacius">
+Sorry, you must have JavaScript support to enjoy the thrill of battling your way through space!
+</div>
+
+<script>
+<!--//
+
+document.getElementById('spacius').innerHTML = '';
+
+Spacius.init({
+	id : 'spacius'
+});
+
+//-->
+</script>
+
+</body>
+</html>

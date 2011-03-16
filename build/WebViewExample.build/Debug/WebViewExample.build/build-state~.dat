@@ -1,0 +1,220 @@
+TWebViewExample
+v7
+r0
+t321762605.923467
+cCheck dependencies
+cProcessInfoPlistFile /Users/hackett/dev/code/xcode/OSX/WebViewExample/build/Debug/WebViewExample.app/Contents/Info.plist WebViewExample-Info.plist
+cCopyStringsFile /Users/hackett/dev/code/xcode/OSX/WebViewExample/build/Debug/WebViewExample.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+cCompileXIB /Users/hackett/dev/code/xcode/OSX/WebViewExample/English.lproj/MainMenu.xib
+cCpResource build/Debug/WebViewExample.app/Contents/Resources/game ../../../../projects/_archive/spacius/game
+cProcessPCH /var/folders/Tt/Tt--KBDoGeuNI8whNcYE5++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WebViewExample_Prefix-gvkciaobthpamyftpsmlqgydtudk/WebViewExample_Prefix.pch.gch WebViewExample_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/WebViewExample.build/Debug/WebViewExample.build/Objects-normal/x86_64/main.o /Users/hackett/dev/code/xcode/OSX/WebViewExample/main.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/WebViewExample.build/Debug/WebViewExample.build/Objects-normal/x86_64/WebViewExampleAppDelegate.o /Users/hackett/dev/code/xcode/OSX/WebViewExample/WebViewExampleAppDelegate.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004CAA740B00000000000000EE
+t1286239243
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c0000000040C4AA6800000000000001E5
+t1086630504
+s485
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/WebKit.framework/Headers/WebKit.h
+c000000004C23CD6E0000000000000957
+t1277414766
+s2391
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/WebKit.framework/WebKit
+c000000004CAA7406000000000008DF08
+t1286239238
+s581384
+
+N/System/Library/Frameworks/Cocoa.framework/Cocoa
+c000000004A1F2D63000000000000A5E0
+t1243557219
+s42464
+
+N/Users/hackett/dev/code/xcode/OSX/WebViewExample/../../../../projects/_archive/spacius/game
+c000000004D7D6632000000000000030E
+t1300063794
+s782
+
+N/Users/hackett/dev/code/xcode/OSX/WebViewExample/English.lproj/InfoPlist.strings
+c000000004D7D6269000000000000002D
+t1300062825
+s45
+
+N/Users/hackett/dev/code/xcode/OSX/WebViewExample/English.lproj/MainMenu.xib
+c000000004D7D6269000000000002BBB8
+t1300062825
+s179128
+
+N/Users/hackett/dev/code/xcode/OSX/WebViewExample/WebViewExampleAppDelegate.h
+c000000004D7D7DA70000000000000156
+t1300069799
+s342
+i<Cocoa/Cocoa.h>
+i<WebKit/WebKit.h>
+
+N/Users/hackett/dev/code/xcode/OSX/WebViewExample/WebViewExampleAppDelegate.m
+c000000004D7D7DA70000000000000220
+t1300069799
+s544
+i"CompleteProjectAppDelegate.h"
+
+N/Users/hackett/dev/code/xcode/OSX/WebViewExample/WebViewExample_Prefix.pch
+c000000004D7D6269000000000000009F
+t1300062825
+s159
+i<Cocoa/Cocoa.h>
+
+N/Users/hackett/dev/code/xcode/OSX/WebViewExample/build/Debug/WebViewExample.app
+t2
+s0
+
+N/Users/hackett/dev/code/xcode/OSX/WebViewExample/build/Debug/WebViewExample.app/Contents/Info.plist
+t1300069800
+s907
+
+N/Users/hackett/dev/code/xcode/OSX/WebViewExample/build/Debug/WebViewExample.app/Contents/MacOS/WebViewExample
+t2
+s0
+
+N/Users/hackett/dev/code/xcode/OSX/WebViewExample/build/Debug/WebViewExample.app/Contents/PkgInfo
+t1300069800
+s8
+
+N/Users/hackett/dev/code/xcode/OSX/WebViewExample/build/Debug/WebViewExample.app/Contents/Resources/English.lproj/InfoPlist.strings
+t1300069800
+s92
+
+N/Users/hackett/dev/code/xcode/OSX/WebViewExample/build/Debug/WebViewExample.app/Contents/Resources/English.lproj/MainMenu.nib
+t1300069801
+s34491
+
+N/Users/hackett/dev/code/xcode/OSX/WebViewExample/build/Debug/WebViewExample.app/Contents/Resources/game
+t1300069800
+s782
+
+N/Users/hackett/dev/code/xcode/OSX/WebViewExample/build/WebViewExample.build/Debug/WebViewExample.build/Objects-normal/x86_64/WebViewExample.LinkFileList
+c000000004D7D7DA8000000000000011D
+t1300069800
+s285
+
+N/Users/hackett/dev/code/xcode/OSX/WebViewExample/build/WebViewExample.build/Debug/WebViewExample.build/Objects-normal/x86_64/WebViewExampleAppDelegate.o
+t2
+s0
+
+N/Users/hackett/dev/code/xcode/OSX/WebViewExample/build/WebViewExample.build/Debug/WebViewExample.build/Objects-normal/x86_64/main.o
+t1300069805
+s5008
+
+N/Users/hackett/dev/code/xcode/OSX/WebViewExample/main.m
+c000000004D7D626900000000000000FD
+t1300062825
+s253
+i<Cocoa/Cocoa.h>
+
+N/var/folders/Tt/Tt--KBDoGeuNI8whNcYE5++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WebViewExample_Prefix-gvkciaobthpamyftpsmlqgydtudk/WebViewExample_Prefix.pch.gch
+t1300069805
+s54306576
+
+NWebViewExample-Info.plist
+c000000004D7D626900000000000003EA
+t1300062825
+s1002
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies321762599#321762600#0(0"0(0#1#0"29836824280170608#0"0#
+
+CCompileC build/WebViewExample.build/Debug/WebViewExample.build/Objects-normal/x86_64/WebViewExampleAppDelegate.o /Users/hackett/dev/code/xcode/OSX/WebViewExample/WebViewExampleAppDelegate.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s321762605.704288
+e321762605.898739
+r0
+xCompileC
+xbuild/WebViewExample.build/Debug/WebViewExample.build/Objects-normal/x86_64/WebViewExampleAppDelegate.o
+x/Users/hackett/dev/code/xcode/OSX/WebViewExample/WebViewExampleAppDelegate.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/hackett/dev/code/xcode/OSX/WebViewExample/WebViewExampleAppDelegate.m:6:39: error: CompleteProjectAppDelegate.h: No such file or directory
+o/Users/hackett/dev/code/xcode/OSX/WebViewExample/WebViewExampleAppDelegate.m:10: warning: cannot find interface declaration for 'CompleteProjectAppDelegate'
+o/Users/hackett/dev/code/xcode/OSX/WebViewExample/WebViewExampleAppDelegate.m:10: error: no declaration of property 'window' found in the interface
+o/Users/hackett/dev/code/xcode/OSX/WebViewExample/WebViewExampleAppDelegate.m:11: error: no declaration of property 'webView' found in the interface
+o/Users/hackett/dev/code/xcode/OSX/WebViewExample/WebViewExampleAppDelegate.m: In function '-[CompleteProjectAppDelegate awakeFromNib]':
+o/Users/hackett/dev/code/xcode/OSX/WebViewExample/WebViewExampleAppDelegate.m:19: error: 'webView' undeclared (first use in this function)
+o/Users/hackett/dev/code/xcode/OSX/WebViewExample/WebViewExampleAppDelegate.m:19: error: (Each undeclared identifier is reported only once
+o/Users/hackett/dev/code/xcode/OSX/WebViewExample/WebViewExampleAppDelegate.m:19: error: for each function it appears in.)
+lSLF07#2@84"Compile /Users/hackett/dev/code/xcode/OSX/WebViewExample/WebViewExampleAppDelegate.m321762605#321762605#0(1132"/Users/hackett/dev/code/xcode/OSX/WebViewExample/WebViewExampleAppDelegate.m:6:39: error: CompleteProjectAppDelegate.h: No such file or directory/Users/hackett/dev/code/xcode/OSX/WebViewExample/WebViewExampleAppDelegate.m:10: warning: cannot find interface declaration for 'CompleteProjectAppDelegate'/Users/hackett/dev/code/xcode/OSX/WebViewExample/WebViewExampleAppDelegate.m:10: error: no declaration of property 'window' found in the interface/Users/hackett/dev/code/xcode/OSX/WebViewExample/WebViewExampleAppDelegate.m:11: error: no declaration of property 'webView' found in the interface/Users/hackett/dev/code/xcode/OSX/WebViewExample/WebViewExampleAppDelegate.m: In function '-[CompleteProjectAppDelegate awakeFromNib]':/Users/hackett/dev/code/xcode/OSX/WebViewExample/WebViewExampleAppDelegate.m:19: error: 'webView' undeclared (first use in this function)/Users/hackett/dev/code/xcode/OSX/WebViewExample/WebViewExampleAppDelegate.m:19: error: (Each undeclared identifier is reported only once/Users/hackett/dev/code/xcode/OSX/WebViewExample/WebViewExampleAppDelegate.m:19: error: for each function it appears in.)5(4@55"CompleteProjectAppDelegate.h: No such file or directory321762605#0#146#0(6@76"/Users/hackett/dev/code/xcode/OSX/WebViewExample/WebViewExampleAppDelegate.m321762599#6#0#6#0#28"*: No such file or directory0(22@66"Cannot find interface declaration for 'CompleteProjectAppDelegate'321762605#146#157#0(6@76"/Users/hackett/dev/code/xcode/OSX/WebViewExample/WebViewExampleAppDelegate.m321762599#10#0#10#0#0"0(4@58"No declaration of property 'window' found in the interface321762605#303#147#0(6@76"/Users/hackett/dev/code/xcode/OSX/WebViewExample/WebViewExampleAppDelegate.m321762599#10#0#10#0#0"0(4@59"No declaration of property 'webView' found in the interface321762605#450#148#0(6@76"/Users/hackett/dev/code/xcode/OSX/WebViewExample/WebViewExampleAppDelegate.m321762599#11#0#11#0#0"0(4@49"'webView' undeclared (first use in this function)321762605#734#138#0(6@76"/Users/hackett/dev/code/xcode/OSX/WebViewExample/WebViewExampleAppDelegate.m321762599#19#0#19#0#43"'*' undeclared (first use in this function)0(0#0#76"/Users/hackett/dev/code/xcode/OSX/WebViewExample/WebViewExampleAppDelegate.m8608673696#1742"    cd /Users/hackett/dev/code/xcode/OSX/WebViewExample    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/hackett/dev/code/xcode/OSX/WebViewExample/build/WebViewExample.build/Debug/WebViewExample.build/WebViewExample-generated-files.hmap -I/Users/hackett/dev/code/xcode/OSX/WebViewExample/build/WebViewExample.build/Debug/WebViewExample.build/WebViewExample-own-target-headers.hmap -I/Users/hackett/dev/code/xcode/OSX/WebViewExample/build/WebViewExample.build/Debug/WebViewExample.build/WebViewExample-all-target-headers.hmap -iquote /Users/hackett/dev/code/xcode/OSX/WebViewExample/build/WebViewExample.build/Debug/WebViewExample.build/WebViewExample-project-headers.hmap -F/Users/hackett/dev/code/xcode/OSX/WebViewExample/build/Debug -I/Users/hackett/dev/code/xcode/OSX/WebViewExample/build/Debug/include -I/Users/hackett/dev/code/xcode/OSX/WebViewExample/build/WebViewExample.build/Debug/WebViewExample.build/DerivedSources/x86_64 -I/Users/hackett/dev/code/xcode/OSX/WebViewExample/build/WebViewExample.build/Debug/WebViewExample.build/DerivedSources -include /var/folders/Tt/Tt--KBDoGeuNI8whNcYE5++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WebViewExample_Prefix-gvkciaobthpamyftpsmlqgydtudk/WebViewExample_Prefix.pch -c /Users/hackett/dev/code/xcode/OSX/WebViewExample/WebViewExampleAppDelegate.m -o /Users/hackett/dev/code/xcode/OSX/WebViewExample/build/WebViewExample.build/Debug/WebViewExample.build/Objects-normal/x86_64/WebViewExampleAppDelegate.o1#
+
+CCompileC build/WebViewExample.build/Debug/WebViewExample.build/Objects-normal/x86_64/main.o /Users/hackett/dev/code/xcode/OSX/WebViewExample/main.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s321762605.702977
+e321762605.923021
+r1
+xCompileC
+xbuild/WebViewExample.build/Debug/WebViewExample.build/Objects-normal/x86_64/main.o
+x/Users/hackett/dev/code/xcode/OSX/WebViewExample/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@63"Compile /Users/hackett/dev/code/xcode/OSX/WebViewExample/main.m321762605#321762605#0(0"0(0#0#55"/Users/hackett/dev/code/xcode/OSX/WebViewExample/main.m8605728320#1700"    cd /Users/hackett/dev/code/xcode/OSX/WebViewExample    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/hackett/dev/code/xcode/OSX/WebViewExample/build/WebViewExample.build/Debug/WebViewExample.build/WebViewExample-generated-files.hmap -I/Users/hackett/dev/code/xcode/OSX/WebViewExample/build/WebViewExample.build/Debug/WebViewExample.build/WebViewExample-own-target-headers.hmap -I/Users/hackett/dev/code/xcode/OSX/WebViewExample/build/WebViewExample.build/Debug/WebViewExample.build/WebViewExample-all-target-headers.hmap -iquote /Users/hackett/dev/code/xcode/OSX/WebViewExample/build/WebViewExample.build/Debug/WebViewExample.build/WebViewExample-project-headers.hmap -F/Users/hackett/dev/code/xcode/OSX/WebViewExample/build/Debug -I/Users/hackett/dev/code/xcode/OSX/WebViewExample/build/Debug/include -I/Users/hackett/dev/code/xcode/OSX/WebViewExample/build/WebViewExample.build/Debug/WebViewExample.build/DerivedSources/x86_64 -I/Users/hackett/dev/code/xcode/OSX/WebViewExample/build/WebViewExample.build/Debug/WebViewExample.build/DerivedSources -include /var/folders/Tt/Tt--KBDoGeuNI8whNcYE5++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WebViewExample_Prefix-gvkciaobthpamyftpsmlqgydtudk/WebViewExample_Prefix.pch -c /Users/hackett/dev/code/xcode/OSX/WebViewExample/main.m -o /Users/hackett/dev/code/xcode/OSX/WebViewExample/build/WebViewExample.build/Debug/WebViewExample.build/Objects-normal/x86_64/main.o0#
+
+CCompileXIB /Users/hackett/dev/code/xcode/OSX/WebViewExample/English.lproj/MainMenu.xib
+s321762600.086303
+e321762601.669079
+r1
+xCompileXIB
+x/Users/hackett/dev/code/xcode/OSX/WebViewExample/English.lproj/MainMenu.xib
+lSLF07#2@37"CompileXIB English.lproj/MainMenu.xib321762600#321762601#0(0"0(0#0#75"/Users/hackett/dev/code/xcode/OSX/WebViewExample/English.lproj/MainMenu.xib8602407744#401"    cd /Users/hackett/dev/code/xcode/OSX/WebViewExample    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/hackett/dev/code/xcode/OSX/WebViewExample/build/Debug/WebViewExample.app/Contents/Resources/English.lproj/MainMenu.nib /Users/hackett/dev/code/xcode/OSX/WebViewExample/English.lproj/MainMenu.xib --sdk /Developer/SDKs/MacOSX10.6.sdk0#
+
+CCopyStringsFile /Users/hackett/dev/code/xcode/OSX/WebViewExample/build/Debug/WebViewExample.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+s321762600.084559
+e321762600.869498
+r1
+xCopyStringsFile
+x/Users/hackett/dev/code/xcode/OSX/WebViewExample/build/Debug/WebViewExample.app/Contents/Resources/English.lproj/InfoPlist.strings
+xEnglish.lproj/InfoPlist.strings
+lSLF07#2@36"Copy English.lproj/InfoPlist.strings321762600#321762600#0(0"0(0#0#80"/Users/hackett/dev/code/xcode/OSX/WebViewExample/English.lproj/InfoPlist.strings8609943776#392"    cd /Users/hackett/dev/code/xcode/OSX/WebViewExample    setenv ICONV /usr/bin/iconv    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-8 --outputencoding UTF-16 English.lproj/InfoPlist.strings --outdir /Users/hackett/dev/code/xcode/OSX/WebViewExample/build/Debug/WebViewExample.app/Contents/Resources/English.lproj0#
+
+CCpResource build/Debug/WebViewExample.app/Contents/Resources/game ../../../../projects/_archive/spacius/game
+s321762600.086956
+e321762600.869896
+r1
+xCpResource
+xbuild/Debug/WebViewExample.app/Contents/Resources/game
+x../../../../projects/_archive/spacius/game
+lSLF07#2@47"Copy ../../../../projects/_archive/spacius/game321762600#321762600#0(0"0(0#0#91"/Users/hackett/dev/code/xcode/OSX/WebViewExample/../../../../projects/_archive/spacius/game8608249376#409"    cd /Users/hackett/dev/code/xcode/OSX/WebViewExample    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/hackett/dev/code/xcode/OSX/WebViewExample/../../../../projects/_archive/spacius/game /Users/hackett/dev/code/xcode/OSX/WebViewExample/build/Debug/WebViewExample.app/Contents/Resources0#
+
+CLd /Users/hackett/dev/code/xcode/OSX/WebViewExample/build/Debug/WebViewExample.app/Contents/MacOS/WebViewExample normal x86_64
+r0
+
+CProcessInfoPlistFile /Users/hackett/dev/code/xcode/OSX/WebViewExample/build/Debug/WebViewExample.app/Contents/Info.plist WebViewExample-Info.plist
+s321762600.015174
+e321762600.084480
+r1
+xProcessInfoPlistFile
+x/Users/hackett/dev/code/xcode/OSX/WebViewExample/build/Debug/WebViewExample.app/Contents/Info.plist
+xWebViewExample-Info.plist
+lSLF07#2@33"Process WebViewExample-Info.plist321762600#321762600#0(0"0(0#0#74"/Users/hackett/dev/code/xcode/OSX/WebViewExample/WebViewExample-Info.plist31525394967363688#361"    cd /Users/hackett/dev/code/xcode/OSX/WebViewExample    builtin-infoPlistUtility WebViewExample-Info.plist -genpkginfo /Users/hackett/dev/code/xcode/OSX/WebViewExample/build/Debug/WebViewExample.app/Contents/PkgInfo -expandbuildsettings -platform macosx -o /Users/hackett/dev/code/xcode/OSX/WebViewExample/build/Debug/WebViewExample.app/Contents/Info.plist0#
+
+CProcessPCH /var/folders/Tt/Tt--KBDoGeuNI8whNcYE5++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WebViewExample_Prefix-gvkciaobthpamyftpsmlqgydtudk/WebViewExample_Prefix.pch.gch WebViewExample_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s321762601.669561
+e321762605.702727
+r1
+xProcessPCH
+x/var/folders/Tt/Tt--KBDoGeuNI8whNcYE5++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WebViewExample_Prefix-gvkciaobthpamyftpsmlqgydtudk/WebViewExample_Prefix.pch.gch
+xWebViewExample_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@36"Precompile WebViewExample_Prefix.pch321762601#321762605#0(0"0(0#0#74"/Users/hackett/dev/code/xcode/OSX/WebViewExample/WebViewExample_Prefix.pch8602047456#1589"    cd /Users/hackett/dev/code/xcode/OSX/WebViewExample    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/hackett/dev/code/xcode/OSX/WebViewExample/build/WebViewExample.build/Debug/WebViewExample.build/WebViewExample-generated-files.hmap -I/Users/hackett/dev/code/xcode/OSX/WebViewExample/build/WebViewExample.build/Debug/WebViewExample.build/WebViewExample-own-target-headers.hmap -I/Users/hackett/dev/code/xcode/OSX/WebViewExample/build/WebViewExample.build/Debug/WebViewExample.build/WebViewExample-all-target-headers.hmap -iquote /Users/hackett/dev/code/xcode/OSX/WebViewExample/build/WebViewExample.build/Debug/WebViewExample.build/WebViewExample-project-headers.hmap -F/Users/hackett/dev/code/xcode/OSX/WebViewExample/build/Debug -I/Users/hackett/dev/code/xcode/OSX/WebViewExample/build/Debug/include -I/Users/hackett/dev/code/xcode/OSX/WebViewExample/build/WebViewExample.build/Debug/WebViewExample.build/DerivedSources/x86_64 -I/Users/hackett/dev/code/xcode/OSX/WebViewExample/build/WebViewExample.build/Debug/WebViewExample.build/DerivedSources -c /Users/hackett/dev/code/xcode/OSX/WebViewExample/WebViewExample_Prefix.pch -o /var/folders/Tt/Tt--KBDoGeuNI8whNcYE5++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WebViewExample_Prefix-gvkciaobthpamyftpsmlqgydtudk/WebViewExample_Prefix.pch.gch0#
+
+CTouch /Users/hackett/dev/code/xcode/OSX/WebViewExample/build/Debug/WebViewExample.app
+r0
+

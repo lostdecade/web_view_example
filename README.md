@@ -1,8 +1,9 @@
 # WebViewExample
 
-This is a tutorial Xcode project explaining how to embed a WebView into a native OSX application.
+This is a tutorial Xcode project explaining how to embed a WebView into a native OSX application. Detailed steps can be found [on our blog](http://blog.lostdecadegames.com/).
 
-Detailed steps can be found [on our blog](http://blog.lostdecadegames.com/how-to-embed-html5-into-a-native-mac-osx-app).
+* Part 1: [How to embed HTML5 into a native Mac OSX app](http://blog.lostdecadegames.com/how-to-embed-html5-into-a-native-mac-osx-app)
+* Part 2: [Completing your native Mac OSX App built in HTML5](http://blog.lostdecadegames.com/completing-your-native-mac-osx-app-built-in-h)
 
 ## Lost Decade Games
 
